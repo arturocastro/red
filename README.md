@@ -21,18 +21,6 @@ Fortunes! (theo.c)
 Small and portable (like sandy/nano) 
 
 Tooey 
-
- 
-
-Under consideration: 
-
-Acme/Wily/DE mouse, windows, plumbing (painful!) 
-
-Sublime magical scroll-bar (soft spot!) 
-Vis/sublime multiple cursors (never tried them!) 
-
-Remote editing (useless!) 
-
  
 
 Non-goals: 
@@ -57,12 +45,21 @@ Code folding
 
 Lots of keybindings, functions 
 
- 
+Under consideration: 
+
+Acme/Wily/DE mouse, windows, plumbing (painful!) 
+
+Sublime magical scroll-bar (soft spot!) 
+Vis/sublime multiple cursors (never tried them!) 
+
+Remote editing (useless!)
+Changing this document (funny!)
+
 
 ------------------------------------- 
 
  
 
-C, maybe scripting, or go 
+C, maybe scheme or forth, or go (or myrddin, hah)
 
 GPL, because I'm mortal

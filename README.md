@@ -14,13 +14,15 @@ UNIX/Uemacs/pe key bindings
 
 Mg/emacs ctags and cscope (and starscope, and alike) support 
 
-Sandy-like pipe support 
+Sandy/ired pipe support 
 
 Fortunes! (theo.c) 
 
 Small and portable (like sandy/nano) 
 
-Tooey 
+Tooey
+
+musl
  
 
 Non-goals: 
@@ -53,6 +55,9 @@ Sublime magical scroll-bar (soft spot!)
 Vis/sublime multiple cursors (never tried them!) 
 
 Remote editing (useless!)
+
+scc (what!)
+
 Changing this document (funny!)
 
 
@@ -60,6 +65,29 @@ Changing this document (funny!)
 
  
 
-C, maybe scheme or forth, or go (or myrddin, hah)
+C, maybe scheme or forth, or go (or plan9 C, or myrddin, hah)
 
 GPL, because I'm mortal
+
+
+------------------------------------- 
+
+
+Related (?) projects:
+acme
+sam
+vi
+vis
+mg
+nano
+jupp
+edit
+ober(on)
+z
+de
+micro
+pe
+uemacs/PK
+sandy
+sed
+ed

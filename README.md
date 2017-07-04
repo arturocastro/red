@@ -1,6 +1,6 @@
 # red
 
-Goals: 
+**Goals:** 
 
 sed/Vi/vim/nvi/vis search and replace 
 
@@ -29,7 +29,7 @@ bandwidth efficient
 big files (qemacs)
 
 
-Non-goals: 
+**Non-goals: **
 
 Syntax highlighting 
 
@@ -51,7 +51,7 @@ Code folding
 
 Lots of keybindings, functions 
 
-Under consideration: 
+**Under consideration: **
 
 Acme/Wily/DE mouse, windows, plumbing (painful!) 
 
@@ -77,7 +77,7 @@ GPL, because I'm mortal
 ------------------------------------- 
 
 
-Related (?) projects:
+*Related (?) projects:*
 acme
 sam
 vi

@@ -23,7 +23,11 @@ Small and portable (like sandy/nano)
 Tooey
 
 musl
- 
+
+bandwidth efficient
+
+big files (qemacs)
+
 
 Non-goals: 
 

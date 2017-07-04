@@ -29,7 +29,7 @@ bandwidth efficient
 big files (qemacs)
 
 
-**Non-goals: **
+**Non-goals:**
 
 Syntax highlighting 
 
@@ -51,7 +51,7 @@ Code folding
 
 Lots of keybindings, functions 
 
-**Under consideration: **
+**Under consideration:**
 
 Acme/Wily/DE mouse, windows, plumbing (painful!) 
 

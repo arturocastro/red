@@ -56,6 +56,7 @@ Lots of keybindings, functions
 Acme/Wily/DE mouse, windows, plumbing (painful!) 
 
 Sublime magical scroll-bar (soft spot!) 
+
 Vis/sublime multiple cursors (never tried them!) 
 
 Remote editing (useless!)

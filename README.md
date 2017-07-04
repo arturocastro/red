@@ -96,3 +96,5 @@ uemacs/PK
 sandy
 sed
 ed
+vimacs
+evil
